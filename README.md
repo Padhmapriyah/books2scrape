@@ -81,3 +81,14 @@ FEEDS = {
 
 Screenshots for reference:
 
+Starting.
+
+![starting](https://user-images.githubusercontent.com/132034355/235129913-c9c07a29-1144-4f95-9e8c-472769c748fe.png)
+
+Ending.
+
+![finishing](https://user-images.githubusercontent.com/132034355/235130171-98b5584d-4acb-451a-b12e-646773f5fc0d.png)
+
+Exported Data to S3 bucket.
+
+![image](https://user-images.githubusercontent.com/132034355/235129957-220e6572-2595-47aa-95ee-cbdb2148e414.png)

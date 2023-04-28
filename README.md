@@ -4,8 +4,11 @@
 As per the requirement, this spider is going to scrape first 750 items from books.toscrape.com with a custom item pipeline and export the output to s3 bucket. It will feed the items to these fields give below:
 
 book title
+
 book price
+
 book image URL
+
 book details page URL
 
 ### Steps:
